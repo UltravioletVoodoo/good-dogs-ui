@@ -22,7 +22,7 @@ https://good-dogs.m90cinjkfob4u.us-west-2.cs.amazonlightsail.com/dogs/australian
 
 1. Fork [this](https://github.com/SemaphoreSolutions/good-dogs-ui) in GitHub
 1. Make your changes
-1. Send a pull request
+1. Zip up the results
 1. Profit!
 
 ---
