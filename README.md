@@ -12,10 +12,14 @@ The backend team has already completed the REST API's that the front end team wi
 
 ## API Endpoints
 
-https://good-dogs.m90cinjkfob4u.us-west-2.cs.amazonlightsail.com/dogs
+A proxy is configured to redirect routes starting with /api to the Good Dogs server (currently [here](https://good-dogs.m90cinjkfob4u.us-west-2.cs.amazonlightsail.com). The following endpoints are available:
 
+GET`/api/dogs`
+- Returns the list of dog breeds.
 
-https://good-dogs.m90cinjkfob4u.us-west-2.cs.amazonlightsail.com/dogs/australian%20shepherd
+GET `/api/dogs/<name>`
+- Returns the details of a specific breed.
+- eg. `/api/dogs/Australian%20Shepherd`
 
 
 ## Procedure
