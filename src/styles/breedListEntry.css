@@ -1,0 +1,13 @@
+.breedListEntry {
+    width: 100%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.breedListEntry:hover {
+    background-color: bisque;
+    transition: 0.3s;
+}
+.breedName {
+    font-size: 20px;
+    font-weight: bold;
+}

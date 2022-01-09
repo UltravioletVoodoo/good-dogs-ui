@@ -1,0 +1,8 @@
+.app {
+    text-align: center;
+}
+.breedListContainer {
+    padding-top: 20px;
+    width: 500px;
+    display: inline-block;
+}
